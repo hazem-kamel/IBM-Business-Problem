@@ -16,10 +16,6 @@ During the process of analysis, several data transformations will be performed i
 
 4. data.london.gov Working hours per borough data: This site provides information about working hours per borough of the population in London which is of a great utility to solve this problem. The data is uploaded as an excel file and the working hours per borough of London's population is converted into DataFrame. The data contains information about the working hours per borough.This data will be analyzed in such a way that one could determine the best location of a new Asian restaurant based on people's working hours .For the sake of simplicity, it will be assumed that people would eat outside in a restaurant if they have more working hours rather than a less working hour job which they will have more flexibility and time to eat at home.
 
-4. data.london.gov Working hours per borough data: This site provides information about working hours per borough of the population in London which is of a great utility to solve this problem. The data is uploaded as an excel file and the working hours per borough of London's population is converted into DataFrame. The data contains information about the working hours per borough.This data will be analyzed in such a way that one could determine the best location of a new Asian restaurant based on people's working hours.For the sake of simplicity, it will be assumed that people would eat outside in a restaurant if they have more working hours rather than a less working hour job which they will have more flexibility and time to eat at home.
-
-
-
 
 ### 3. Target Audience
 The target audience of this project could be any business owner that is planning to open a new business local, restaurant, real state agency, shops, etc... Since this approach could be applicable not only to Asian food restaurants but to other kind of businesses, anybody who is considering to place a new business local or even relocate it, could beneficiate of this project's approach.
